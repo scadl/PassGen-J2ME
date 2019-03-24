@@ -1,0 +1,13 @@
+<Project>
+	<MIDlet Name="PassGen" Vendor="MIDletPascal" Version="1.0.0" Icon="/icon.png"/>
+	<Sources>
+		<source filename="PassGen.mpsrc"/>
+	</Sources>
+	<Resources>
+		<resource filename="icon.png" configurations=":all:"/>
+		<resource filename="warn.png" configurations=":all:"/>
+	</Resources>
+	<BuildConfigurations>
+		<configuration name="Default" type="normal" version="1" math="1"/>
+	<ActiveConfiguration index="0"/>	</BuildConfigurations>
+</Project>

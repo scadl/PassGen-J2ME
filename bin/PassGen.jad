@@ -1,0 +1,9 @@
+MIDlet-1: PassGen, /icon.png, FW
+MIDlet-Jar-Size: 10069
+MIDlet-Jar-URL: PassGen.jar
+MIDlet-Name: PassGen
+MIDlet-Vendor: MIDletPascal
+MIDlet-Icon: /icon.png
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
