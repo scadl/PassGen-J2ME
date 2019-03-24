@@ -1,1 +1,2 @@
 # PassGen-J2ME
+Long time ago there was intresting IDE called MidletPascal. It basicaly allowed to write mobile java apps, using pascal-like syntax. Remeber, this is not dektop java, we are talking about. This pascal-like code, was converted to Java 2 Platform, Micro Edition. This simple app demonstarates how this system worked. If you have old mobile phone with j2me support, you can even test it. The jar file is in releases tab :)
